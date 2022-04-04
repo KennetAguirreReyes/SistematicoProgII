@@ -1,0 +1,47 @@
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\bin\Debug\Domain.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\bin\Debug\Domain.pdb
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\obj\Debug\Domain.dll
+C:\Users\Quezada\Desktop\practicaDepreciacion\Domain\obj\Debug\Domain.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\Domain\bin\Debug\Domain.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\Domain\bin\Debug\Domain.pdb
+C:\Users\JADPA13\source\repos\Primera_Clase\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA13\source\repos\Primera_Clase\Domain\obj\Debug\Domain.dll
+C:\Users\JADPA13\source\repos\Primera_Clase\Domain\obj\Debug\Domain.pdb
+E:\ProgramacionII\Depreciacion\Domain\bin\Debug\Domain.dll
+E:\ProgramacionII\Depreciacion\Domain\bin\Debug\Domain.pdb
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.dll
+E:\ProgramacionII\Depreciacion\Domain\obj\Debug\Domain.pdb
+C:\Users\usuario\Desktop\Depreciacion-2M1\Domain\bin\Debug\Domain.dll
+C:\Users\usuario\Desktop\Depreciacion-2M1\Domain\bin\Debug\Domain.pdb
+C:\Users\usuario\Desktop\Depreciacion-2M1\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Depreciacion-2M1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Depreciacion-2M1\Domain\obj\Debug\Domain.dll
+C:\Users\usuario\Desktop\Depreciacion-2M1\Domain\obj\Debug\Domain.pdb
+C:\Users\JADPA10\Desktop\Depreciacion-2M1\Domain\bin\Debug\Domain.dll
+C:\Users\JADPA10\Desktop\Depreciacion-2M1\Domain\bin\Debug\Domain.pdb
+C:\Users\JADPA10\Desktop\Depreciacion-2M1\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\JADPA10\Desktop\Depreciacion-2M1\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA10\Desktop\Depreciacion-2M1\Domain\obj\Debug\Domain.dll
+C:\Users\JADPA10\Desktop\Depreciacion-2M1\Domain\obj\Debug\Domain.pdb
+C:\Users\JADPA15\Desktop\SistematicoProgII-main\Domain\bin\Debug\Domain.dll
+C:\Users\JADPA15\Desktop\SistematicoProgII-main\Domain\bin\Debug\Domain.pdb
+C:\Users\JADPA15\Desktop\SistematicoProgII-main\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\JADPA15\Desktop\SistematicoProgII-main\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA15\Desktop\SistematicoProgII-main\Domain\obj\Debug\Domain.dll
+C:\Users\JADPA15\Desktop\SistematicoProgII-main\Domain\obj\Debug\Domain.pdb
+F:\C# prog 2\PROGRAMA EMPLEADO\SistematicoProgII-main\Domain\bin\Debug\Domain.dll
+F:\C# prog 2\PROGRAMA EMPLEADO\SistematicoProgII-main\Domain\bin\Debug\Domain.pdb
+F:\C# prog 2\PROGRAMA EMPLEADO\SistematicoProgII-main\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+F:\C# prog 2\PROGRAMA EMPLEADO\SistematicoProgII-main\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+F:\C# prog 2\PROGRAMA EMPLEADO\SistematicoProgII-main\Domain\obj\Debug\Domain.dll
+F:\C# prog 2\PROGRAMA EMPLEADO\SistematicoProgII-main\Domain\obj\Debug\Domain.pdb
+C:\Users\usuario\Desktop\empleado\prueba\SistematicoProgII-main\Domain\bin\Debug\Domain.dll
+C:\Users\usuario\Desktop\empleado\prueba\SistematicoProgII-main\Domain\bin\Debug\Domain.pdb
+C:\Users\usuario\Desktop\empleado\prueba\SistematicoProgII-main\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\empleado\prueba\SistematicoProgII-main\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\empleado\prueba\SistematicoProgII-main\Domain\obj\Debug\Domain.dll
+C:\Users\usuario\Desktop\empleado\prueba\SistematicoProgII-main\Domain\obj\Debug\Domain.pdb
